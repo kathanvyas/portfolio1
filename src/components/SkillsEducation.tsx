@@ -72,7 +72,7 @@ export default function SkillsEducation() {
                          <div>
                              <h4 className="text-white font-semibold mb-4 text-base">Key Publications & Patents</h4>
                              <ul className="space-y-4 list-disc pl-4">
-                                 <li>Patent: "Multi-sensor upper arm band for physiological measurements... predict hypoglycemia/hyperglycemia"</li>
+                                 <li>Patent: &quot;Multi-sensor upper arm band for physiological measurements... predict hypoglycemia/hyperglycemia&quot;</li>
                                  <li>Vyas, K. et al. (2019). Recognition of atypical behavior in autism diagnosis from video. IEEE MLSP.</li>
                                  <li>Dave, D., Vyas, K. et al. (2024). FedGlu: A personalized federated learning-based glucose forecasting algorithm.</li>
                                  <li>Vyas, K. et al. (2020). Additional value of augmenting current subscales in braden scale... for pressure injury risk assessment. IEEE BIBM.</li>
